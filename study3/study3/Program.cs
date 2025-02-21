@@ -16,6 +16,7 @@ namespace study3
             char rank = 'S'; // 등급
             string name = "Alice"; // 캐릭터 이름
 
+            Console.WriteLine("캐릭터");
             Console.WriteLine(hp); // 출력 : 100
             Console.WriteLine(att);      // 출력 : 56.7
             Console.WriteLine(rank);      // 출력 : S

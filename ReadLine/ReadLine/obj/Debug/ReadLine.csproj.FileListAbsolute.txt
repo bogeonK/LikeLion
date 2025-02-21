@@ -1,0 +1,7 @@
+E:\LikeLion\ReadLine\ReadLine\bin\Debug\ReadLine.exe.config
+E:\LikeLion\ReadLine\ReadLine\bin\Debug\ReadLine.exe
+E:\LikeLion\ReadLine\ReadLine\bin\Debug\ReadLine.pdb
+E:\LikeLion\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.AssemblyReference.cache
+E:\LikeLion\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.CoreCompileInputs.cache
+E:\LikeLion\ReadLine\ReadLine\obj\Debug\ReadLine.exe
+E:\LikeLion\ReadLine\ReadLine\obj\Debug\ReadLine.pdb
