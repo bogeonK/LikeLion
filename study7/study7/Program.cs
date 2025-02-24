@@ -41,6 +41,16 @@ namespace study7
 
             //Console.WriteLine($"원래의 값:{num}, 비트 반전 후 값:{revNum}");
 
+            //증감 연산자
+            int a = 3;
+            int b = 3;
+
+            //전위 ++b, 후위 a++
+            Console.WriteLine("b의 값은 : " + (++b));
+
+            Console.WriteLine("a의 값은 : " + (a++));
+            Console.WriteLine("a의 값은 : " + (a));
+
         }
     }
 }
