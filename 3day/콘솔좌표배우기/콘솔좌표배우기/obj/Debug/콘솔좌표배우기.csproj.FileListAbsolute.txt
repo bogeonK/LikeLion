@@ -1,0 +1,7 @@
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\bin\Debug\콘솔좌표배우기.exe.config
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\bin\Debug\콘솔좌표배우기.exe
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\bin\Debug\콘솔좌표배우기.pdb
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\obj\Debug\콘솔좌표배우기.csproj.AssemblyReference.cache
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\obj\Debug\콘솔좌표배우기.csproj.CoreCompileInputs.cache
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\obj\Debug\콘솔좌표배우기.exe
+E:\LikeLion\3day\콘솔좌표배우기\콘솔좌표배우기\obj\Debug\콘솔좌표배우기.pdb

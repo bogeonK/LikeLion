@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LikeLion\\3day\\game1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EA39D4-A661-4F85-A516-BD283CE3D581}|game1\\game1.csproj|e:\\likelion\\3day\\game1\\game1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EA39D4-A661-4F85-A516-BD283CE3D581}|game1\\game1.csproj|solutionrelative:game1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LikeLion\\3day\\game1\\game1\\Program.cs",
+              "RelativeDocumentMoniker": "game1\\Program.cs",
+              "ToolTip": "E:\\LikeLion\\3day\\game1\\game1\\Program.cs",
+              "RelativeToolTip": "game1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:53:54.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

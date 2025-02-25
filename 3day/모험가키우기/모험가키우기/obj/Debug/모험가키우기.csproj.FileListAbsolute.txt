@@ -1,0 +1,7 @@
+E:\LikeLion\3day\모험가키우기\모험가키우기\obj\Debug\모험가키우기.csproj.AssemblyReference.cache
+E:\LikeLion\3day\모험가키우기\모험가키우기\obj\Debug\모험가키우기.csproj.CoreCompileInputs.cache
+E:\LikeLion\3day\모험가키우기\모험가키우기\bin\Debug\모험가키우기.exe.config
+E:\LikeLion\3day\모험가키우기\모험가키우기\bin\Debug\모험가키우기.exe
+E:\LikeLion\3day\모험가키우기\모험가키우기\bin\Debug\모험가키우기.pdb
+E:\LikeLion\3day\모험가키우기\모험가키우기\obj\Debug\모험가키우기.exe
+E:\LikeLion\3day\모험가키우기\모험가키우기\obj\Debug\모험가키우기.pdb
