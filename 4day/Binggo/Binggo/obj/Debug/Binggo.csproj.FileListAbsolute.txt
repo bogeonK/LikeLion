@@ -1,0 +1,7 @@
+E:\LikeLion\3day\Binggo\Binggo\bin\Debug\Binggo.exe.config
+E:\LikeLion\3day\Binggo\Binggo\bin\Debug\Binggo.exe
+E:\LikeLion\3day\Binggo\Binggo\bin\Debug\Binggo.pdb
+E:\LikeLion\3day\Binggo\Binggo\obj\Debug\Binggo.csproj.AssemblyReference.cache
+E:\LikeLion\3day\Binggo\Binggo\obj\Debug\Binggo.csproj.CoreCompileInputs.cache
+E:\LikeLion\3day\Binggo\Binggo\obj\Debug\Binggo.exe
+E:\LikeLion\3day\Binggo\Binggo\obj\Debug\Binggo.pdb
