@@ -1,0 +1,7 @@
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.exe.config
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.exe
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.pdb
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.csproj.AssemblyReference.cache
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.csproj.CoreCompileInputs.cache
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.exe
+E:\LikeLion\5day\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.pdb

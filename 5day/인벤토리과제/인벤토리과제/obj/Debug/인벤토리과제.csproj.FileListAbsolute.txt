@@ -1,0 +1,7 @@
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\bin\Debug\인벤토리과제.exe.config
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\bin\Debug\인벤토리과제.exe
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\bin\Debug\인벤토리과제.pdb
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\obj\Debug\인벤토리과제.csproj.AssemblyReference.cache
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\obj\Debug\인벤토리과제.csproj.CoreCompileInputs.cache
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\obj\Debug\인벤토리과제.exe
+E:\LikeLion\5day\인벤토리과제\인벤토리과제\obj\Debug\인벤토리과제.pdb

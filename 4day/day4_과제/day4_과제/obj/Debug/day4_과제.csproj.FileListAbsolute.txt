@@ -1,0 +1,7 @@
+E:\LikeLion\3day\day4_과제\day4_과제\bin\Debug\day4_과제.exe.config
+E:\LikeLion\3day\day4_과제\day4_과제\bin\Debug\day4_과제.exe
+E:\LikeLion\3day\day4_과제\day4_과제\bin\Debug\day4_과제.pdb
+E:\LikeLion\3day\day4_과제\day4_과제\obj\Debug\day4_과제.csproj.AssemblyReference.cache
+E:\LikeLion\3day\day4_과제\day4_과제\obj\Debug\day4_과제.csproj.CoreCompileInputs.cache
+E:\LikeLion\3day\day4_과제\day4_과제\obj\Debug\day4_과제.exe
+E:\LikeLion\3day\day4_과제\day4_과제\obj\Debug\day4_과제.pdb

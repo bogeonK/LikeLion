@@ -1,0 +1,7 @@
+E:\LikeLion\5day\Inventory\Inventory\bin\Debug\Inventory.exe.config
+E:\LikeLion\5day\Inventory\Inventory\bin\Debug\Inventory.exe
+E:\LikeLion\5day\Inventory\Inventory\bin\Debug\Inventory.pdb
+E:\LikeLion\5day\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+E:\LikeLion\5day\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+E:\LikeLion\5day\Inventory\Inventory\obj\Debug\Inventory.exe
+E:\LikeLion\5day\Inventory\Inventory\obj\Debug\Inventory.pdb

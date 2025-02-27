@@ -1,0 +1,7 @@
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\bin\Debug\슈팅게임과제(함수).exe.config
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\bin\Debug\슈팅게임과제(함수).exe
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\bin\Debug\슈팅게임과제(함수).pdb
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\obj\Debug\슈팅게임과제(함수).csproj.AssemblyReference.cache
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\obj\Debug\슈팅게임과제(함수).csproj.CoreCompileInputs.cache
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\obj\Debug\슈팅게임과제(함수).exe
+E:\LikeLion\5day\슈팅게임과제(함수)\슈팅게임과제(함수)\obj\Debug\슈팅게임과제(함수).pdb

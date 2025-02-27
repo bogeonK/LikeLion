@@ -1,0 +1,7 @@
+E:\LikeLion\5day\study 17\study 17\bin\Debug\study 17.exe.config
+E:\LikeLion\5day\study 17\study 17\bin\Debug\study 17.exe
+E:\LikeLion\5day\study 17\study 17\bin\Debug\study 17.pdb
+E:\LikeLion\5day\study 17\study 17\obj\Debug\study 17.csproj.AssemblyReference.cache
+E:\LikeLion\5day\study 17\study 17\obj\Debug\study 17.csproj.CoreCompileInputs.cache
+E:\LikeLion\5day\study 17\study 17\obj\Debug\study 17.exe
+E:\LikeLion\5day\study 17\study 17\obj\Debug\study 17.pdb
