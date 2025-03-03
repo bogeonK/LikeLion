@@ -5,3 +5,10 @@ E:\LikeLion\6day\Fortress\Fortress\bin\Debug\Fortress.exe
 E:\LikeLion\6day\Fortress\Fortress\bin\Debug\Fortress.pdb
 E:\LikeLion\6day\Fortress\Fortress\obj\Debug\Fortress.exe
 E:\LikeLion\6day\Fortress\Fortress\obj\Debug\Fortress.pdb
+E:\LikeLion\myGame\Fortress\Fortress\bin\Debug\Fortress.exe.config
+E:\LikeLion\myGame\Fortress\Fortress\bin\Debug\Fortress.exe
+E:\LikeLion\myGame\Fortress\Fortress\bin\Debug\Fortress.pdb
+E:\LikeLion\myGame\Fortress\Fortress\obj\Debug\Fortress.csproj.AssemblyReference.cache
+E:\LikeLion\myGame\Fortress\Fortress\obj\Debug\Fortress.csproj.CoreCompileInputs.cache
+E:\LikeLion\myGame\Fortress\Fortress\obj\Debug\Fortress.exe
+E:\LikeLion\myGame\Fortress\Fortress\obj\Debug\Fortress.pdb
