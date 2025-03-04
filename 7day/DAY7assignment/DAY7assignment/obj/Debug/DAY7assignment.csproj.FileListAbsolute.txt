@@ -1,0 +1,7 @@
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\bin\Debug\DAY7assignment.exe.config
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\bin\Debug\DAY7assignment.exe
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\bin\Debug\DAY7assignment.pdb
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\obj\Debug\DAY7assignment.csproj.AssemblyReference.cache
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\obj\Debug\DAY7assignment.csproj.CoreCompileInputs.cache
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\obj\Debug\DAY7assignment.exe
+E:\LikeLion\7day\DAY7assignment\DAY7assignment\obj\Debug\DAY7assignment.pdb
