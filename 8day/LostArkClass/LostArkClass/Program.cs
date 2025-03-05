@@ -239,10 +239,12 @@ namespace LostArkClass
                         {
                             berserker.Move();
                         }
+                        Console.WriteLine("---------------------------------------");
 
                     }
 
                 }
+                Console.WriteLine("---------------------------------------");
             }
         }
     }
