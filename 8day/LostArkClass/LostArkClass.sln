@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostArkClass", "LostArkClass\LostArkClass.csproj", "{009992AA-99E1-4CF0-9579-C42C2D3708A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009992AA-99E1-4CF0-9579-C42C2D3708A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009992AA-99E1-4CF0-9579-C42C2D3708A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009992AA-99E1-4CF0-9579-C42C2D3708A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009992AA-99E1-4CF0-9579-C42C2D3708A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9621A891-AA17-4507-A0D6-96036649E3FE}
+	EndGlobalSection
+EndGlobal

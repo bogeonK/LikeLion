@@ -1,0 +1,7 @@
+E:\LikeLion\7day\LostArkClass\LostArkClass\obj\Debug\LostArkClass.csproj.AssemblyReference.cache
+E:\LikeLion\7day\LostArkClass\LostArkClass\obj\Debug\LostArkClass.csproj.CoreCompileInputs.cache
+E:\LikeLion\7day\LostArkClass\LostArkClass\bin\Debug\LostArkClass.exe.config
+E:\LikeLion\7day\LostArkClass\LostArkClass\bin\Debug\LostArkClass.exe
+E:\LikeLion\7day\LostArkClass\LostArkClass\bin\Debug\LostArkClass.pdb
+E:\LikeLion\7day\LostArkClass\LostArkClass\obj\Debug\LostArkClass.exe
+E:\LikeLion\7day\LostArkClass\LostArkClass\obj\Debug\LostArkClass.pdb
