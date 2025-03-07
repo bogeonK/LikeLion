@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|E:\\LikeLion\\10day\\TextRpgTimeAttack\\textrpgtimeattack\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|solutionrelative:textrpgtimeattack\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|E:\\LikeLion\\10day\\TextRpgTimeAttack\\textrpgtimeattack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|solutionrelative:textrpgtimeattack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|E:\\LikeLion\\10day\\TextRpgTimeAttack\\textrpgtimeattack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|solutionrelative:textrpgtimeattack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|E:\\LikeLion\\10day\\TextRpgTimeAttack\\textrpgtimeattack\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|solutionrelative:textrpgtimeattack\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|E:\\LikeLion\\10day\\TextRpgTimeAttack\\textrpgtimeattack\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|solutionrelative:textrpgtimeattack\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|e:\\likelion\\10day\\textrpgtimeattack\\textrpgtimeattack\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470E1CA-8C5E-4109-B785-E818A1DD9BB0}|TextRpgTimeAttack\\TextRpgTimeAttack.csproj|solutionrelative:textrpgtimeattack\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\MainGame.cs",
+              "RelativeDocumentMoniker": "TextRpgTimeAttack\\MainGame.cs",
+              "ToolTip": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\MainGame.cs",
+              "RelativeToolTip": "TextRpgTimeAttack\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:09:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Field.cs",
+              "DocumentMoniker": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Field.cs",
+              "RelativeDocumentMoniker": "TextRpgTimeAttack\\Field.cs",
+              "ToolTip": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Field.cs",
+              "RelativeToolTip": "TextRpgTimeAttack\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:28.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Monster.cs",
+              "RelativeDocumentMoniker": "TextRpgTimeAttack\\Monster.cs",
+              "ToolTip": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Monster.cs",
+              "RelativeToolTip": "TextRpgTimeAttack\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\INFO.cs",
+              "RelativeDocumentMoniker": "TextRpgTimeAttack\\INFO.cs",
+              "ToolTip": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\INFO.cs",
+              "RelativeToolTip": "TextRpgTimeAttack\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Player.cs",
+              "RelativeDocumentMoniker": "TextRpgTimeAttack\\Player.cs",
+              "ToolTip": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Player.cs",
+              "RelativeToolTip": "TextRpgTimeAttack\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:35.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Program.cs",
+              "RelativeDocumentMoniker": "TextRpgTimeAttack\\Program.cs",
+              "ToolTip": "E:\\LikeLion\\10day\\TextRpgTimeAttack\\TextRpgTimeAttack\\Program.cs",
+              "RelativeToolTip": "TextRpgTimeAttack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:11.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

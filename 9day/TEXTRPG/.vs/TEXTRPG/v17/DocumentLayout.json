@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LikeLion\\9day\\TEXTRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|E:\\LikeLion\\9day\\TEXTRPG\\textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|E:\\LikeLion\\9day\\TEXTRPG\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|E:\\LikeLion\\9day\\TEXTRPG\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|e:\\likelion\\9day\\textrpg\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|E:\\LikeLion\\9day\\TEXTRPG\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|E:\\LikeLion\\9day\\TEXTRPG\\textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A1B0CE-9C58-46B9-BF09-CC3ADF1B4A75}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Monster.cs",
+              "ToolTip": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeToolTip": "TEXTRPG\\Monster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Field.cs",
+              "ToolTip": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeToolTip": "TEXTRPG\\Field.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwFIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:02:55.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\MainGame.cs",
+              "ToolTip": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeToolTip": "TEXTRPG\\MainGame.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:21.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Player.cs",
+              "ToolTip": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeToolTip": "TEXTRPG\\Player.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:13:06.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\INFO.cs",
+              "ToolTip": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeToolTip": "TEXTRPG\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:11:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Program.cs",
+              "ToolTip": "E:\\LikeLion\\9day\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeToolTip": "TEXTRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:08:27.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

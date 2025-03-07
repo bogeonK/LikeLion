@@ -1,0 +1,7 @@
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\bin\Debug\TextRpgTimeAttack.exe.config
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\bin\Debug\TextRpgTimeAttack.exe
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\bin\Debug\TextRpgTimeAttack.pdb
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\obj\Debug\TextRpgTimeAttack.csproj.AssemblyReference.cache
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\obj\Debug\TextRpgTimeAttack.csproj.CoreCompileInputs.cache
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\obj\Debug\TextRpgTimeAttack.exe
+E:\LikeLion\10day\TextRpgTimeAttack\TextRpgTimeAttack\obj\Debug\TextRpgTimeAttack.pdb
