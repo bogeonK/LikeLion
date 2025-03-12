@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\LikeLion\\10day\\BrickGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|e:\\likelion\\10day\\brickgame\\brickgame\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|e:\\likelion\\10day\\brickgame\\brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +23,16 @@
       "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|e:\\likelion\\10day\\brickgame\\brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|e:\\likelion\\10day\\brickgame\\brickgame\\brickdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\brickdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|E:\\LikeLion\\10day\\BrickGame\\brickgame\\brickdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C58506-F20B-44C9-A0AB-119C22C087FD}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\brickdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,14 +52,14 @@
               "RelativeDocumentMoniker": "BrickGame\\Brick.cs",
               "ToolTip": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\Brick.cs*",
               "RelativeToolTip": "BrickGame\\Brick.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T08:29:25.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BRICKDATA.cs",
               "DocumentMoniker": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\BRICKDATA.cs",
               "RelativeDocumentMoniker": "BrickGame\\BRICKDATA.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BARDATA.cs",
               "DocumentMoniker": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\BARDATA.cs",
               "RelativeDocumentMoniker": "BrickGame\\BARDATA.cs",
@@ -98,33 +98,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\GameManager.cs",
               "RelativeDocumentMoniker": "BrickGame\\GameManager.cs",
               "ToolTip": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\GameManager.cs",
               "RelativeToolTip": "BrickGame\\GameManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T02:23:27.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Ball.cs",
               "DocumentMoniker": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\Ball.cs",
               "RelativeDocumentMoniker": "BrickGame\\Ball.cs",
               "ToolTip": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\Ball.cs",
               "RelativeToolTip": "BrickGame\\Ball.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:43:42.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BALLDATA.cs",
               "DocumentMoniker": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\BALLDATA.cs",
               "RelativeDocumentMoniker": "BrickGame\\BALLDATA.cs",
@@ -137,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\Program.cs",
               "RelativeDocumentMoniker": "BrickGame\\Program.cs",
               "ToolTip": "E:\\LikeLion\\10day\\BrickGame\\BrickGame\\Program.cs",
               "RelativeToolTip": "BrickGame\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAawCYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:37:36.266Z",
               "EditorCaption": ""

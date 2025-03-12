@@ -23,24 +23,22 @@ namespace BrickGame
         }
         public void SetBrick(int nBlckCount)
         {
-            int bX = 3;
+            int bX = 6;
             int bY = 1;
             for(int i=0; i< nBlckCount; i++)
             {
                 d_brick[i].brickLife = 1;
-                bX += 1;
+                bX += 2;
 
                 d_brick[i].brickX = bX;
                 d_brick[i].brickY = bY;
-               
-               
             }
 
         }
 
         public void initialize()
         {
-            SetBrick(3);
+            SetBrick(30);
         }
 
         public void Progress() { }
@@ -55,6 +53,7 @@ namespace BrickGame
                     Console.Write("■");
                 }
             }
+
         }
 
         public void Release() { }

@@ -37,8 +37,7 @@ namespace BrickGame
                     gm.Render();
                 }
             }
-            gm.Release();
-           
+          
         }
     }
 }
