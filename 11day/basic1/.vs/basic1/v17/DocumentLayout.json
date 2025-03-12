@@ -1,18 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\UnityBasic\\basic1\\",
+  "WorkspaceRootPath": "E:\\LikeLion\\11day\\basic1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|e:\\unitybasic\\basic1\\assets\\conditionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|e:\\likelion\\11day\\basic1\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|e:\\likelion\\11day\\basic1\\assets\\movewithgravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\movewithgravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\vectorstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\vectorstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\monobehaviourexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\monobehaviourexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\classexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\classexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\functionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\functionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\loopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\loopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\conditionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\conditionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|e:\\unitybasic\\basic1\\assets\\variableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|E:\\LikeLion\\11day\\basic1\\assets\\variableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E4817C-293E-D078-FBAA-9AA8F9F524B3}|Assembly-CSharp.csproj|solutionrelative:assets\\variableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityBasic\\basic1\\Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityBasic\\basic1\\Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,37 +58,133 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConditionExample.cs",
-              "DocumentMoniker": "E:\\UnityBasic\\basic1\\Assets\\ConditionExample.cs",
-              "RelativeDocumentMoniker": "Assets\\ConditionExample.cs",
-              "ToolTip": "E:\\UnityBasic\\basic1\\Assets\\ConditionExample.cs",
-              "RelativeToolTip": "Assets\\ConditionExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T01:37:06.361Z",
+              "WhenOpened": "2025-03-10T05:43:34.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VariableExample.cs",
-              "DocumentMoniker": "E:\\UnityBasic\\basic1\\Assets\\VariableExample.cs",
-              "RelativeDocumentMoniker": "Assets\\VariableExample.cs",
-              "ToolTip": "E:\\UnityBasic\\basic1\\Assets\\VariableExample.cs",
-              "RelativeToolTip": "Assets\\VariableExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "MoveWithGravity.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\MoveWithGravity.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveWithGravity.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\MoveWithGravity.cs",
+              "RelativeToolTip": "Assets\\MoveWithGravity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T01:23:04.299Z",
+              "WhenOpened": "2025-03-10T05:27:38.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VectorStudy.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\VectorStudy.cs",
+              "RelativeDocumentMoniker": "Assets\\VectorStudy.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\VectorStudy.cs",
+              "RelativeToolTip": "Assets\\VectorStudy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:09:29.382Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MoveObject.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\MoveObject.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveObject.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\MoveObject.cs",
+              "RelativeToolTip": "Assets\\MoveObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:49:27.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonoBehaviourExample.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\MonoBehaviourExample.cs",
+              "RelativeDocumentMoniker": "Assets\\MonoBehaviourExample.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\MonoBehaviourExample.cs",
+              "RelativeToolTip": "Assets\\MonoBehaviourExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:41:25.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassExample.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\ClassExample.cs",
+              "RelativeDocumentMoniker": "Assets\\ClassExample.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\ClassExample.cs",
+              "RelativeToolTip": "Assets\\ClassExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:30:21.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionExample.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\FunctionExample.cs",
+              "RelativeDocumentMoniker": "Assets\\FunctionExample.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\FunctionExample.cs",
+              "RelativeToolTip": "Assets\\FunctionExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:20:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoopExample.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\LoopExample.cs",
+              "RelativeDocumentMoniker": "Assets\\LoopExample.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\LoopExample.cs",
+              "RelativeToolTip": "Assets\\LoopExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:02:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConditionExample.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\ConditionExample.cs",
+              "RelativeDocumentMoniker": "Assets\\ConditionExample.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\ConditionExample.cs",
+              "RelativeToolTip": "Assets\\ConditionExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:37:06.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VariableExample.cs",
+              "DocumentMoniker": "E:\\LikeLion\\11day\\basic1\\Assets\\VariableExample.cs",
+              "RelativeDocumentMoniker": "Assets\\VariableExample.cs",
+              "ToolTip": "E:\\LikeLion\\11day\\basic1\\Assets\\VariableExample.cs",
+              "RelativeToolTip": "Assets\\VariableExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:23:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Test.cs",
               "DocumentMoniker": "E:\\UnityBasic\\basic1\\Assets\\Test.cs",
-              "RelativeDocumentMoniker": "Assets\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\UnityBasic\\basic1\\Assets\\Test.cs",
               "ToolTip": "E:\\UnityBasic\\basic1\\Assets\\Test.cs",
-              "RelativeToolTip": "Assets\\Test.cs",
+              "RelativeToolTip": "..\\..\\..\\UnityBasic\\basic1\\Assets\\Test.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T00:46:58.545Z"
             }
