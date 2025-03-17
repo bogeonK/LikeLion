@@ -5,6 +5,8 @@ public class PBullet : MonoBehaviour
     public float Speed = 4.0f;
 
     //공격력
+    public int Attack = 10;
+
     //이펙트
     public GameObject effect;
     public GameObject item;
@@ -25,12 +27,12 @@ public class PBullet : MonoBehaviour
     private void OnBecameInvisible()
     {
         Destroy(gameObject);
+        //PoolManager.Instance.Return(gameObject);
     }
 
     //충돌처리
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        int x = Random.Range(0, 100);
         if (collision.CompareTag("Monster"))
         {
             //이펙트생성
@@ -40,14 +42,23 @@ public class PBullet : MonoBehaviour
             Destroy(go, 1);
 
             //몬스터 삭제
-            Destroy(collision.gameObject);
+            collision.gameObject.GetComponent<Monster>().Damage(Attack);
+            //PoolManager.Instance.Return(collision.gameObject);
 
             //미사일 삭제
             Destroy(gameObject);
-            if (x < 10)
-            {
-                GameObject it = Instantiate(item, transform.position, Quaternion.identity);
-            }
+        }
+
+        if (collision.CompareTag("Boss"))
+        {
+            //이펙트생성
+            GameObject go = Instantiate(effect, transform.position, Quaternion.identity);
+
+            //1초뒤에 지우기
+            Destroy(go, 1);
+
+            //미사일 삭제
+            Destroy(gameObject);
         }
     }
 }
