@@ -1508,6 +1508,50 @@ Transform:
   m_GameObject: {fileID: 1648344539}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.08, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1662654775
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1662654777}
+  - component: {fileID: 1662654776}
+  m_Layer: 0
+  m_Name: PoolManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &1662654776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1662654775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ea56af03bbec24c855903368820b62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1662654777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1662654775}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1550,7 +1594,7 @@ MonoBehaviour:
   monster: {fileID: 1493913690844020562, guid: 602e31da13a300c4c85b7acdb832b9a4, type: 3}
   monster2: {fileID: 1673368329494805615, guid: f735a3758f78ab9489404f74dcbe72f5, type: 3}
   boss: {fileID: 3802054359124718948, guid: 0bbaa2b7d52f22e42a1e2e7c0713d4e4, type: 3}
-  textBossWarning: {fileID: 0}
+  textBossWarning: {fileID: 678642448}
 --- !u!4 &1878817006
 Transform:
   m_ObjectHideFlags: 0
@@ -1845,3 +1889,4 @@ SceneRoots:
   - {fileID: 1878817006}
   - {fileID: 328761919}
   - {fileID: 1648344542}
+  - {fileID: 1662654777}
