@@ -86,3 +86,10 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 0
+    functionName: LandDust
+    data: 
+    objectReferenceParameter: {fileID: 4746491095330033211, guid: 42c1631c1cece4a4490203751fd356d9, type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

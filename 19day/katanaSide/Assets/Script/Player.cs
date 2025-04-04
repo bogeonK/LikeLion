@@ -1,6 +1,8 @@
 using System.Collections.Generic;
+using Unity.Cinemachine;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -23,6 +25,25 @@ public class Player : MonoBehaviour
     Rigidbody2D pRig2D;
     SpriteRenderer sp;
 
+    public GameObject Jdust;
+
+    //바닥먼지
+    public GameObject Dust;
+
+    //점프먼지
+    public GameObject walldust;
+
+    //벽점프
+    public Transform wallChk;
+    public float wallchkDistance;
+    public LayerMask wLayer;
+    bool isWall;
+    public float slidingSpeed;
+    public float wallJumpPower;
+    public bool isWallJump;
+    float isRight = 1;
+
+
     void Start()
     {
         pAnimator = GetComponent<Animator>();
@@ -43,6 +64,9 @@ public class Player : MonoBehaviour
             sp.flipX = true;
             pAnimator.SetBool("Run", true);
 
+            //점프벽잡기 방향
+            isRight = -1;
+
             //Shadowflip
             for (int i = 0; i < sh.Count; i++)
             {
@@ -56,6 +80,7 @@ public class Player : MonoBehaviour
             sp.flipX = false;
             pAnimator.SetBool("Run", true);
 
+            isRight = 1;
 
             //Shadowflip
             for (int i = 0; i < sh.Count; i++)
@@ -92,8 +117,29 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        KeyInput();
-        Move();
+        //시간 조절 입력 체크 (왼쪽 시프트 키를 누르면 슬로우 모션 시작)
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            //포스트프로세싱 화면 효과
+            TimeController.Instance.SetSlowMotion(true);
+        }
+
+
+        if (!isWallJump)
+        {
+            KeyInput();
+            Move();
+        }
+
+
+
+        //벽인지 체크
+        isWall = Physics2D.Raycast(wallChk.position, Vector2.right * isRight, wallchkDistance, wLayer);
+        pAnimator.SetBool("Grab", isWall);
+
+
+
+
 
         if (Input.GetKeyDown(KeyCode.W))
         {
@@ -101,30 +147,81 @@ public class Player : MonoBehaviour
             {
                 Jump();
                 pAnimator.SetBool("Jump", true);
+                JumpDust();
+            }
+
+        }
+
+
+
+        if (isWall)
+        {
+            isWallJump = false;
+            //벽점프상태
+            pRig2D.linearVelocity = new Vector2(pRig2D.linearVelocityX, pRig2D.linearVelocityY * slidingSpeed);
+            //벽을 잡고있는 상태에서 점프
+            if (Input.GetKeyDown(KeyCode.W))
+            {
+                isWallJump = true;
+                //벽점프 먼지
+                GameObject go = Instantiate(walldust, transform.position + new Vector3(0.8f * isRight, 0, 0), Quaternion.identity);
+                go.GetComponent<SpriteRenderer>().flipX = sp.flipX;
+
+                Invoke("FreezeX", 0.3f);
+                //물리
+                pRig2D.linearVelocity = new Vector2(-isRight * wallJumpPower, 0.9f * wallJumpPower);
+
+                sp.flipX = sp.flipX == false ? true : false;
+                isRight = -isRight;
+
             }
 
         }
 
     }
 
+    void FreezeX()
+    {
+        isWallJump = false;
+    }
+
+
+    private float GROUND_CHECK_DISTANCE = 0.7f;
+
     private void FixedUpdate()
     {
-        Debug.DrawRay(pRig2D.position, Vector3.down, new Color(0, 1, 0));
+        Debug.DrawRay(pRig2D.position, Vector3.down, new Color(0, GROUND_CHECK_DISTANCE, 0));
 
         //레이캐스트로 땅체크 
-        RaycastHit2D rayHit = Physics2D.Raycast(pRig2D.position, Vector3.down, 1, LayerMask.GetMask("Ground"));
+        RaycastHit2D rayHit = Physics2D.Raycast(pRig2D.position, Vector3.down, GROUND_CHECK_DISTANCE, LayerMask.GetMask("Ground"));
 
-        if (pRig2D.linearVelocityY < 0)
+        CheckGroundedState(rayHit);
+    }
+
+
+    void CheckGroundedState(RaycastHit2D rayHit)
+    {
+
+        bool isGrounded = rayHit.collider != null && rayHit.distance < GROUND_CHECK_DISTANCE;
+
+        if (isGrounded)
         {
-            if (rayHit.collider != null)
+            pAnimator.SetBool("Jump", false);
+        }
+        else
+        {
+            //떨어지고 있다
+            if (!isWall)
             {
-                if (rayHit.distance < 0.7f)
-                {
-                    pAnimator.SetBool("Jump", false);
-                }
+                //그냥 떨어지는중
+                pAnimator.SetBool("Jump", true);
+            }
+            else
+            {
+                //벽타기
+                pAnimator.SetBool("Grab", true);
             }
         }
-
 
     }
 
@@ -175,6 +272,45 @@ public class Player : MonoBehaviour
         }
     }
 
+    
+    //흙먼지
+    public void LandDust(GameObject dust)
+    {
+        Instantiate(dust, transform.position + new Vector3(-0.114f, -0.467f, 0), Quaternion.identity);
+    }
+
+    //점프먼지
+    public void JumpDust()
+    {
+        if (!isWall)
+        {
+            Instantiate(Jdust, transform.position, Quaternion.identity);
+            Debug.Log("점프먼지 생성중이야");
+        }
+        else
+        {
+            //벽먼지
+            //Instantiate(walldust, transform.position, Quaternion.identity);
+            //Debug.Log("나벽먼지 생성중이야");
+        }
 
 
+
+    }
+
+    //벽점프
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.blue;
+        Gizmos.DrawRay(wallChk.position, Vector2.right * isRight * wallchkDistance);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag( "Boss"))
+        {
+            SceneManager.LoadScene("Boss");
+        }
+    }
 }
+
