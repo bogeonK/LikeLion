@@ -22,10 +22,6 @@ public class Player : Entity
     public float dashDir { get; private set; }
 
   
-
-
-
-    #region States
     // 플레이어의 상태를 관리하는 상태 머신
     public PlayerStateMachine stateMachine { get; private set; }
 
@@ -40,8 +36,6 @@ public class Player : Entity
     public PlayerWallJumpState wallJump { get; private set; }
     public PlayerPrimaryAttackState primaryAttack { get; private set; }
 
-    #endregion
-    
 
     protected override void Awake()
     {
