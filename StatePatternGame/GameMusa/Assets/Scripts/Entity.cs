@@ -2,8 +2,13 @@ using UnityEngine;
 
 public class Entity : MonoBehaviour
 {
+
+
+    #region Components
     public Animator anim { get; private set; }
     public Rigidbody2D rb { get; private set; }
+    #endregion
+
 
     [Header("충돌 정보")]
     [SerializeField] protected Transform groundCheck;
@@ -28,12 +33,15 @@ public class Entity : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
+
     protected virtual void Update()
     {
 
     }
 
-    //충돌
+
+
+    #region 충돌
     public virtual bool IsGroundDetected() => Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, whatIsGround);
     public virtual bool IsWallDetected() => Physics2D.Raycast(wallCheck.position, Vector2.right * facingDir, wallCheckDistance, whatIsGround);
 
@@ -43,8 +51,11 @@ public class Entity : MonoBehaviour
         Gizmos.DrawLine(groundCheck.position, new Vector3(groundCheck.position.x, groundCheck.position.y - groundCheckDistance));
         Gizmos.DrawLine(wallCheck.position, new Vector3(wallCheck.position.x + wallCheckDistance, wallCheck.position.y));
     }
+    #endregion
 
-    //플립
+
+
+    #region 플립
     public virtual void Flip()
     {
         facingDir = facingDir * -1;
@@ -62,13 +73,16 @@ public class Entity : MonoBehaviour
 
     }
 
+    #endregion
 
-    //속력
-    public void ZeroVelocity() => rb.linearVelocity = new Vector2(0, 0);
+
+    #region 속력
+    public void SetZeroVelocity() => rb.linearVelocity = new Vector2(0, 0);
 
     public void SetVelocity(float _xVelocity, float _yVelocity)
     {
         rb.linearVelocity = new Vector2(_xVelocity, _yVelocity);
         FlipController(_xVelocity);
     }
+    #endregion
 }
